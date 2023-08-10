@@ -12,7 +12,7 @@
     <div max-widith='80px'>
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img src="https://www.claro.com.br/imagem/img-destaque-horizontal-fatura-digital-debito-automatico-1509138110869.png"
+                <img src="https://i.pinimg.com/originals/c9/3e/42/c93e428ef0092b4fbb8ef0166b2afef7.jpg"
                     class="d-block w-100" alt="...">
                 <div class="carousel-caption d-none d-md-block">
                     <h6>Tudo que voce precisa bem nas suas maos !</h6>

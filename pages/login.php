@@ -23,7 +23,7 @@
     }
 
     .container {
-        height: 100%;
+        height: 51vh;
         align-content: center;
     }
 

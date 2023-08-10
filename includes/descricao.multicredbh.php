@@ -24,8 +24,8 @@
             </div>
             <div class="col-xl-6  col-sm-12">
 
-                <img class="img-fluid" alt="Tabalho MulticredBH" title="MulticredBH"
-                    src="<?=base_url()?>assets/images/estamo.png" style="max-height:600px" />
+                <img class="img-fluid" alt="" title="MulticredBH"
+                    src="https://cdn.pixabay.com/photo/2015/06/19/21/24/avenue-815297_640.jpg" style="max-height:600px" />
             </div>
 
         </div>

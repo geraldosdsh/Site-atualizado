@@ -3,39 +3,39 @@
         <div class="row">
             <div class="col-xl-3 col-sm-12 box-footer ">
                 <h5 class="text-center">Endereço</h5>
-                <p class="text-center">Rua Conceição Macedo de Novais, 140 - Cidade Nova, Belo Horizonte-MG, 31170160,
+                <p class="text-center">Rua Não localizada, 19999 - Nem conheço, Não existe-MG, 387897897,
                     Brasil</p>
-                <p class="text-center">Av. Amador Bueno da Veiga, 2032 - Penha de França, São Paulo - SP, 03636-100,
+                <p class="text-center">Rua Não localizada, 19999 - Nem conheço, Não existe-MG, 387897897,
                     Brasil</p>
             </div>
             <div class="col-xl-3 col-sm-12 box-footer">
                 <h5 class="text-center">Telefone</h5>
-                <p class="text-center">(31)2333-0152</p>
+                <p class="text-center">(31) 9999-9999</p>
             </div>
             <div class="col-xl-3 col-sm-12 box-footer">
                 <div>
                     <h6 class="text-center">Whatsapp da unidade de Belo Horizonte</h6>
-                    <p class="text-center">(31) 9 91739320</p>
-                    <p class="text-center">(31) 9 93724978</p>
+                    <p class="text-center">(31) 9 9999-9999</p>
+                    <p class="text-center">(31) 9 9999-9999</p>
                 </div>
                 <div>
                     <h6 class="text-center">Whatsapp da unidade de São Paulo</h6>
-                    <p class="text-center">(11) 9 60736160</p>
-                    <p class="text-center">(11) 9 34917912</p>
+                    <p class="text-center">(11) 9 9999-9999</p>
+                    <p class="text-center">(11) 9 9999-9999</p>
                 </div>
             </div>
             <div class="col-xl-3 col-sm-12 box-footer">
 
                 <div class="text-center">
                     <font color='white'>Converse com um de nossos atendentes nas redes sociais a seguir!</font>
-                    <a href='https://www.facebook.com/multicredbh'><img src="<?=base_url()?>assets/images/facebook.png"
+                    <a href='https://www.facebook.com/multicredbh'><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Facebook_icon.svg/2048px-Facebook_icon.svg.png"
                             style="max-height: 25px"></a>
                     <a href='https://www.instagram.com/multicredbh/'><img
-                            src="<?=base_url()?>assets/images/instagram.png" alt="" class="img-fluid"
+                            src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/1025px-Instagram-Icon.png" alt="" class="img-fluid"
                             style="max-height: 25px"></a>
                     <a
                         href='https://api.whatsapp.com/send?phone=553191739320&text=Ol%C3%A1%20MulticredBH%20vim%20pelo%20site%2C%20quero%20adquirir%20meu%20orçamento%20agora!'><img
-                            src="<?=base_url()?>assets/images/whatsapp.png" alt="" class="img-fluid"
+                            src="https://www.iconpacks.net/icons/2/free-whatsapp-logo-icon-4454-thumb.png" alt="" class="img-fluid"
                             style="max-height: 25px"></a>
 
                 </div>

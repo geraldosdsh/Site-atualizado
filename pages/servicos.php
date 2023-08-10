@@ -7,7 +7,7 @@
         <div class="row">
             <div class="col-xl-4 col-sm-12">
                 <div class="card shadow" style="width: 18rem;">
-                    <img src="<?=base_url()?>assets/images/img3.jpg" class="card-img-top" alt="...">
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCrzHqCNW8ziB11QvSQJ72vahD0xMHZOGR_NWtgFlmWWT7samHkrYfzF6hl44bYDpvv8o&usqp=CAU" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Crédito Pessoal</h5>
                         <p class="card-text"><b>O que é empréstimo pessoal ?</b>
@@ -26,7 +26,7 @@
 
             <div class="col-xl-4 col-sm-12">
                 <div class="card shadow" style="width: 18rem;">
-                    <img src="<?=base_url()?>assets/images/img3.jpg" class="card-img-top" alt="...">
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCrzHqCNW8ziB11QvSQJ72vahD0xMHZOGR_NWtgFlmWWT7samHkrYfzF6hl44bYDpvv8o&usqp=CAU" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Consórcio de Veículo</h5>
                         <p class="card-text">
@@ -47,7 +47,7 @@
 
             <div class="col-xl-4 col-sm-12">
                 <div class="card shadow" style="width: 18rem;">
-                    <img src="<?=base_url()?>assets/images/img3.jpg" class="card-img-top" alt="...">
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCrzHqCNW8ziB11QvSQJ72vahD0xMHZOGR_NWtgFlmWWT7samHkrYfzF6hl44bYDpvv8o&usqp=CAU" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5>Crédito Consignado</h5>
                         <p><b>Oque é Crédito Consignado ?</b></p>
@@ -76,7 +76,7 @@
 
             <div class="mt-5 col-xl-4 col-sm-12">
                 <div class="card shadow" style="width: 18rem;">
-                    <img src="<?=base_url()?>assets/images/img3.jpg" class="card-img-top" alt="...">
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCrzHqCNW8ziB11QvSQJ72vahD0xMHZOGR_NWtgFlmWWT7samHkrYfzF6hl44bYDpvv8o&usqp=CAU" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Consórcio Imobiliario</h5>
                         <p class="card-text"><b>Porque você deve fazer consórcio Imobiliario?</b></p>
@@ -100,7 +100,7 @@
 
             <div class="mt-5 col-xl-4 col-sm-12">
                 <div class="card shadow" style="width: 18rem;">
-                    <img src="<?=base_url()?>assets/images/img3.jpg" class="card-img-top" alt="...">
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCrzHqCNW8ziB11QvSQJ72vahD0xMHZOGR_NWtgFlmWWT7samHkrYfzF6hl44bYDpvv8o&usqp=CAU" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Refinanciamento</h5>
                         <p>
@@ -122,7 +122,7 @@
 
             <div class="mt-5 col-xl-4 col-sm-12">
                 <div class="card shadow" style="width: 18rem;">
-                    <img src="<?=base_url()?>assets/images/img3.jpg" class="card-img-top" alt="...">
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCrzHqCNW8ziB11QvSQJ72vahD0xMHZOGR_NWtgFlmWWT7samHkrYfzF6hl44bYDpvv8o&usqp=CAU" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Portabilidade</h5>
                         <p class="card-text">
