@@ -54,29 +54,29 @@
 
 
 <footer class="text-light p-3 bg-dark animate__animated animate__fadeInBottomLeft">
-    <div class="row mt-4 m-auto">
+<div class="row  m-auto">
         <div class="row">
             <div class="col-xl-3 col-sm-12 box-footer ">
                 <h5 class="text-center">Endereço</h5>
-                <p class="text-center">Rua Conceição Macedo de Novais, 140 - Cidade Nova, Belo Horizonte-MG, 31170160,
+                <p class="text-center">Rua Não localizada, 19999 - Nem conheço, Não existe-MG, 387897897,
                     Brasil</p>
-                <p class="text-center">Av. Amador Bueno da Veiga, 2032 - Penha de França, São Paulo - SP, 03636-100,
+                <p class="text-center">Rua Não localizada, 19999 - Nem conheço, Não existe-MG, 387897897,
                     Brasil</p>
             </div>
             <div class="col-xl-3 col-sm-12 box-footer">
                 <h5 class="text-center">Telefone</h5>
-                <p class="text-center">(31)2333-0152</p>
+                <p class="text-center">(31) 9999-9999</p>
             </div>
             <div class="col-xl-3 col-sm-12 box-footer">
                 <div>
                     <h6 class="text-center">Whatsapp da unidade de Belo Horizonte</h6>
-                    <p class="text-center">(31) 9 91739320</p>
-                    <p class="text-center">(31) 9 93724978</p>
+                    <p class="text-center">(31) 9 9999-9999</p>
+                    <p class="text-center">(31) 9 9999-9999</p>
                 </div>
                 <div>
                     <h6 class="text-center">Whatsapp da unidade de São Paulo</h6>
-                    <p class="text-center">(11) 9 60736160</p>
-                    <p class="text-center">(11) 9 34917912</p>
+                    <p class="text-center">(11) 9 9999-9999</p>
+                    <p class="text-center">(11) 9 9999-9999</p>
                 </div>
             </div>
             <div class="col-xl-3 col-sm-12 box-footer">
